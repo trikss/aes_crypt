@@ -25,6 +25,7 @@ applications for other platforms, please visit [AESCrypt's official website](htt
 - Support for asynchronous file system reading/writing.
 - Encrypted files have .aes extension which clients on other operating systems recognize.
 - Compatible software available for Windows, Linux, Mac OS, Android and iOS 
+- now typesafe with null safety
 (https://www.aescrypt.com/download/).
 
 ## Usage
