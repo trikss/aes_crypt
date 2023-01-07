@@ -1,4 +1,4 @@
-part of aes_crypt;
+part of aes_crypt2;
 
 enum _Action { encrypting, decripting }
 

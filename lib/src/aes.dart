@@ -1,4 +1,4 @@
-part of aes_crypt;
+part of aes_crypt2;
 
 // This is the ported version of PHP phpAES library
 // http://www.phpaes.com
